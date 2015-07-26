@@ -1,0 +1,2 @@
+# QAPlayground
+SoftUni-QA-Playground
